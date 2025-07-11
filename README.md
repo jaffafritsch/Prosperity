@@ -4,6 +4,6 @@ This project is an attempt to create a digital bank platform encompasing most as
 
 # Idea Board
 - Loan Management
-Interest calculations
+> Interest calculations
 - Contract Management
 - Transactions
